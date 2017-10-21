@@ -9,6 +9,11 @@
   "author": "John McLachlan",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "yargs": "^4.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnmcl81/notes-node.git"
   }
 }
